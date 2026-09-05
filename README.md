@@ -57,9 +57,9 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edisquan&show_icons=true&locale=en" alt="Edisquan" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=Edisquan&show_icons=true&locale=en](https://avatars.githubusercontent.com/u/210670073?v=4)" alt="Edisquan" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edisquan&" alt="Edisquan" />
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Edisquan&](https://avatars.githubusercontent.com/u/210670073?v=4)" alt="Edisquan" />
 </p>
