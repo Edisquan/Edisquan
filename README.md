@@ -50,16 +50,3 @@
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google apps script" width="40" height="40"/> 
   </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edisquan&show_icons=true&locale=en&layout=compact" alt="Edisquan" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=Edisquan&show_icons=true&locale=en](https://avatars.githubusercontent.com/u/210670073?v=4)" alt="Edisquan" />
-</p>
-
-<p>
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Edisquan&](https://avatars.githubusercontent.com/u/210670073?v=4)" alt="Edisquan" />
-</p>
