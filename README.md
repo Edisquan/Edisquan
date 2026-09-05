@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from University of Mindanao</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=smoothieunvrs&label=Profile%20views&color=0e75b6&style=flat" alt="smoothieunvrs" /> 
+  <img src="https://komarev.com/ghpvc/?username=Edisquan&label=Profile%20views&color=0e75b6&style=flat" alt="Edisquan" /> 
 </p>
 
 - 🌱 I'm currently learning **Cybersecurity**
@@ -18,7 +18,7 @@
   <a href="mailto:Malveze111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/smoothieunvrs" target="_blank">
+  <a href="https://github.com/Edisquan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -51,14 +51,15 @@
   </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smoothieunvrs&show_icons=true&locale=en&layout=compact" alt="smoothieunvrs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edisquan&show_icons=true&locale=en&layout=compact" alt="Edisquan" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoothieunvrs&show_icons=true&locale=en" alt="smoothieunvrs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edisquan&show_icons=true&locale=en" alt="Edisquan" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smoothieunvrs&" alt="smoothieunvrs" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edisquan&" alt="Edisquan" />
 </p>
