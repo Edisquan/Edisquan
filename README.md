@@ -1,29 +1,64 @@
-# Hi 👋, I'm Edison F. Malvez
+<h1 align="center">Hi 👋, I'm Edison F. Malvez</h1>
+<h3 align="center">A passionate developer from University of Mindanao</h3>
 
-### Student at University of Mindanao
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=smoothieunvrs&label=Profile%20views&color=0e75b6&style=flat" alt="smoothieunvrs" /> 
+</p>
 
-- 🌱 Currently learning **Cybersecurity**
-- 💼 Check my portfolio: [smoothieunvrs.github.io/Portfolio](https://smoothieunvrs.github.io/Portfolio)
-- 📫 Email: Malveze111@gmail.com, Cubersgamers084@gmail.com
-- ⚡ Fun fact: I love riding! 🏍️
+- 🌱 I'm currently learning **Cybersecurity**
 
----
+- 👨‍💻 All of my projects are available at [https://smoothieunvrs.github.io/Portfolio/](https://smoothieunvrs.github.io/Portfolio/)
 
-## 💻 Technologies I Use
+- 📫 How to reach me: **Malveze111@gmail.com**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+- ⚡ Fun fact: **I love riding! 🏍️**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:Malveze111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/smoothieunvrs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google apps script" width="40" height="40"/> 
+  </a>
+</p>
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=smoothieunvrs&show_icons=true&theme=default)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smoothieunvrs&show_icons=true&locale=en&layout=compact" alt="smoothieunvrs" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smoothieunvrs&layout=compact)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoothieunvrs&show_icons=true&locale=en" alt="smoothieunvrs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smoothieunvrs&" alt="smoothieunvrs" />
+</p>
